@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!-- Generation started @ 2018-07-14 07:37:38 UTC -->
 <season xmlns="http://feed.elasticstats.com/schema/baseball/v6/statistics.xsd" id="00cd4d28-e638-4ae7-9824-6dbbfba50d4a" year="2018" type="REG">
   <team name="Diamondbacks" market="Arizona" abbr="ARI" id="25507be1-6a68-4267-bd82-e097d94b359b">
